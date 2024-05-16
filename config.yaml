@@ -1,0 +1,13 @@
+# config.yaml
+
+font_path: ~
+font_size: 40
+button_font_size: 20
+width: 560
+height: 720
+background_color: [232, 246, 252]
+text_color: [0, 0, 0]
+button_color: [255, 200, 0]
+button_text_color: [255, 255, 255]
+
+answersbook_path: "./answersbook.json"
